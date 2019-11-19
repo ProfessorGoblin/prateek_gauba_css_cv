@@ -1,0 +1,263 @@
+
+body {
+  margin:0;
+  text-align: center;
+}
+
+.top-container {
+background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+  /* line-height: 2; */
+}
+
+.mywork {
+  padding-bottom:  20px;
+}
+
+p {
+  margin:auto;
+  font-family: 'Karla', sans-serif;
+}
+.contact-me {
+  margin:auto;
+  font-family: 'Karla', sans-serif;
+}
+
+
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem  ;
+  margin: 40px 40px 0px 40px;
+  color: #66BFBF;
+}
+
+
+h2{
+font-family: 'Karla', sans-serif;
+  /* font-family: 'Sacramento', cursive; */
+  font-size: 2.5rem ;
+  color:#66BFBF;
+  margin: 20px auto 10px auto;
+}
+
+
+.a {
+  margin-bottom:  40px;
+}
+.myDescription{
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+h3{
+  /* margin:auto; */
+  font-family: 'Karla', sans-serif;
+  color: #11999E;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.productheading {
+  text-align: left;
+}
+
+.designheading {
+  text-align: left;
+}
+.skill-row {
+  margin-bottom: 10px;
+  width: 50%;
+  overflow: hidden;
+}
+
+.know {
+  background-color: blue;
+}
+
+table {
+  border-spacing: 0;
+  padding:0;
+}
+
+td{
+  padding:0;
+}
+
+hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #eaf6f6;
+    /* height:  2px; */
+    width : 8%;
+    margin-top: 60px;
+    /* padding-top: 50px; */
+  }
+
+.middle-container {
+  padding-top: 20px;
+  margin-bottom: 35px;
+}
+.bottom-container {
+margin-top: 40px;
+  padding-top: 30px;;
+  /* width: 50% */
+  font-family: 'Karla', sans-serif;
+    padding-bottom: 30px;
+    background-color: #66BFBF;
+    color: #11999e;
+}
+
+.research {
+  width: 15%;
+  float: left;
+  max-height: 100%;
+  margin-right: 30px;
+  /* margin-bottom: 30px; */
+}
+
+.design {
+  width: 15%;
+  max-height: 100%;
+  float: right;
+  margin-left: 30px;
+    /* margin-left: 30px; */
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+.skills {
+  padding-top: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: auto;
+}
+
+.contact-me {
+  padding-top: 20px;
+}
+/* .top-container{
+  background-color: red;
+  border: solid 10px;
+  border-color: black;
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  padding: 20px;
+}
+
+.middle-container{
+  background-color: blue;
+  border: solid 20px;
+  border-color: black;
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  /* border: 10px; */
+
+
+/* .bottom-container{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+border: solid 10px;
+border-color: black;
+margin: 0;
+}  */
+
+/* .test {
+background-color: #d2fafb;
+}
+
+
+.c1 {
+  position:absolute;
+  margin: auto;
+  left: 25%;
+    margin-left: -50px;
+    top: 75%;
+    margin-top: -50px;
+
+}
+
+.c2{
+  position:absolute;
+  margin: auto;
+  left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -50px;
+  /* bottom: 50%; */
+
+/* }
+
+.c3{
+    position:absolute;
+    margin: auto;
+    right: 25%;
+      margin-left: -50px;
+      top: 25%;
+      margin-top: -50px;
+} */
+
+.v {
+  margin : 0;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.check {
+  margin: 20px auto 40px;
+}
+/* .mountain_name{
+  position: fixed;
+  left: 50%;
+  margin-left: -300px;
+  top: 80%;
+  margin-top: -50px;
+} */
+.btn {
+text-transform: uppercase;
+border-width: 1px;
+border-style: solid;
+border-radius: 4px;
+font-size: 18px;
+font-weight: 500;
+text-decoration: none;
+color: #fff;
+height: 38px;
+padding: 10px 17px;
+font-family: "Karla",sans-serif;
+background-color: #11999E;
+border-color: #11999E;
+margin-bottom: 10px;
+}
+
+
+.copyright{
+  padding-top: 30px;
+  color: #eaf6f6;
+}
+.footer-link1 {
+  padding-right:  30px;
+  text-decoration: none;
+}
